@@ -87,6 +87,7 @@ public class SlidingWindow {
                 deque.popBack();
             }
             deque.pushBack(i);
+
             if (i >= k - 1) {
                 list[r++] = a[deque.front()];
             }
