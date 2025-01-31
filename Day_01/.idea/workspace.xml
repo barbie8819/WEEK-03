@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c82369ed-d77f-49b3-bd21-2b94c307155f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2sGduWeeMO7C0zcaXQauEsdX2eP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.cicularlinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.circularLinkedList.OnlineTicketReservation.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.doublyLinkedList.MovieManagementSystem.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.doublyLinkedList.UndoRedoFunctions.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Day__01&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\scc\Desktop\WEEK_03\Day_01\src\Practice\StudentLinkedList" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.cicularlinkedList">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="singlyLinkedList.StudentManagementSystem.Main" />
+      <module name="Day_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="singlyLinkedList.StudentManagementSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cicularlinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="circularLinkedList.Practice.cicularlinkedList" />
+      <module name="Day_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="circularLinkedList.Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="circularLinkedList.OnlineTicketReservation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="circularLinkedList.OnlineTicketReservation.Main" />
+      <module name="Day_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="circularLinkedList.OnlineTicketReservation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="doublyLinkedList.MovieManagementSystem.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="doublyLinkedList.MovieManagementSystem.Main" />
+      <module name="Day_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="doublyLinkedList.MovieManagementSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="doublyLinkedList.UndoRedoFunctions.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="doublyLinkedList.UndoRedoFunctions.Main" />
+      <module name="Day_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="doublyLinkedList.UndoRedoFunctions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.cicularlinkedList" />
+        <item itemvalue="Application.circularLinkedList.OnlineTicketReservation.Main" />
+        <item itemvalue="Application.doublyLinkedList.UndoRedoFunctions.Main" />
+        <item itemvalue="Application.doublyLinkedList.MovieManagementSystem.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c82369ed-d77f-49b3-bd21-2b94c307155f" name="Changes" comment="" />
+      <created>1738086070823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738086070823</updated>
+    </task>
+    <servers />
+  </component>
+</project>
