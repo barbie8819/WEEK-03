@@ -11,6 +11,7 @@ public class RotationPoint {
             } else {
                 right = mid;
             }
+
         }
         return left;
     }
